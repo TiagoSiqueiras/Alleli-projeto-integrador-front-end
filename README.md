@@ -12,3 +12,9 @@ Recursos e Estruturas Utilizadas:
 1. Clone este repositório ou faça o download dos arquivos.
 2. Certifique-se de que os arquivos de mídia da loja (como `Modelo1.png` e `IMG_4893.MP4`) estão salvos na mesma pasta raiz.
 3. Clique duas vezes no arquivo `index.html` para abri-lo diretamente no seu navegador. Nenhuma instalação adicional é necessária!
+
+
+
+AVALIAÇÃO PO PARES - avaliado por Isaac Cardoso:
+
+O projeto Alelli apresenta uma proposta interessante e bem definida, com foco em uma loja de roupas femininas. Gostei da organização do conteúdo da página, que apresenta produtos, categorias, tabela de preços e recursos multimídia. Também achei positivo o uso de elementos semânticos do HTML5, como header, main, section e footer, além dos formulários com diferentes campos, labels e validações, demonstrando a aplicação dos conceitos trabalhados em aula. Outro ponto interessante é a documentação no README, que ajuda a compreender a proposta e a estrutura do projeto. No geral, é um trabalho bem desenvolvido, com uma boa organização e uma proposta criativa, que demonstra dedicação e aplicação prática dos conhecimentos adquiridos na disciplina. Parabéns pelo projeto !
